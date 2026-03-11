@@ -223,7 +223,3 @@ Before you submit, make sure:
 - [ ] Your `my_imageids.txt` contains at least 100 ImageIDs (one per line, sorted).
 - [ ] Your Google Drive folder is named with your student ID and contains images, labels, and `my_imageids.txt`.
 - [ ] You have uploaded your `my_imageids.txt` file in the Student Portal.
-
-## Evaluation Criteria
-
-Your work will be evaluated on completeness and correctness. **Completeness** means all 100 images and labels are present in Google Drive and the verification script passes. **Correctness** means your YOLO labels are properly formatted, your ImageID partition is deterministic and non-overlapping, and your `my_imageids.txt` contains at least 100 valid IDs.
