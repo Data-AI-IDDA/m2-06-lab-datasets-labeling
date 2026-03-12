@@ -1,0 +1,14 @@
+# Ignore the data folders
+openimages_v6/
+images/
+labels/
+.ipynb_checkpoints/
+
+# Ignore the heavy metadata lists
+master_cat_imageids.txt
+
+# Do NOT ignore your result or scripts
+!my_imageids.txt
+!*.py
+!README.md
+!report.md
